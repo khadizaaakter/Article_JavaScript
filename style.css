@@ -8,6 +8,12 @@ body{
     position: relative;
 }
 
+/* Global */
+.obj-width{
+    max-width: 1200px;
+    margin: auto;
+}
+
 nav{
     background: linear-gradient(to right, aquamarine, lightblue);
     box-shadow: 0 7px 10px rgba(0, 0, 0, 0.3);
@@ -45,4 +51,7 @@ nav{
     margin-left: 10px;
 }
 
+#blog-container{
+    margin: 3rem 0;
 
+}
