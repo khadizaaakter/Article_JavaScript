@@ -5,7 +5,7 @@ const blogContainer = document.getElementById("blog-container");
 function fetchRandomNews(){
     try{
 
-    }catch(){
-        
+    } catch(){
+
     }
 }
